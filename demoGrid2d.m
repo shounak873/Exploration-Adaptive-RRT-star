@@ -1,3 +1,4 @@
+% Example code taken from GPML package
 disp('See http://www.gaussianprocess.org/gpml/code/matlab/doc/ for details.')
 clear all, close all, write_fig = 0; N = 30;
 strc = input(['Which structure?\n  (k)ronecker, (t)oeplitz, (b)ttb, ',...
